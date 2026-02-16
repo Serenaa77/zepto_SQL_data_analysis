@@ -55,12 +55,3 @@ This project demonstrates core data analyst skills:
 ✔ Aggregation & Calculations
 ✔ Business Insight Generation
 
-🚀 How to Run
-
-Create a PostgreSQL database
-
-Run schema.sql to create tables
-
-Import the dataset
-
-Execute queries from analysis.sql
